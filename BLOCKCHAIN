@@ -1,0 +1,61 @@
+ARTICLE ABOUT BLOCKCHAIN*
+  
+INTRODUCTIONS OF BLOCKCHAIN AND THE MAIN PURPOSE OF BLOCKCHAIN 
+
+*BLOCKCHAIN*
+
+A blockchain is “a distributed database that maintains a continuously growing list of ordered records, called blocks.” These blocks “are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data.
+
+The blockchain is a data structure that consists of a number of blocks linked to each other. Each block contains a number of transactions which represent the activity that's taking place on that blockchain.
+
+Blocks are used to store batches of valid transactions that have been hashed and encoded into a Merkle tree. Each block contains the cryptographic hash of the previous block in the blockchain, which connects the two. A chain is formed by the linked blocks.
+
+Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network.
+
+*MAIN PURPOSE OF BLOCKCHAIN*
+ 
+The goal of blockchain is to allow digital information to be recorded and distributed, but not edited. In this way, a blockchain is a foundation for immutable ledgers, or records of transactions that cannot be altered, deleted, or destroyed.
+
+* TO SECURE THE DATA.
+
+
+*THE ARE 4 ELEMENTS OF A BLOCKCHAIN NETWORK:*
+
+* Nodes.
+* Wallet.
+* Ledger.
+* Hash.
+
+1. Node – It is of two types – Full Node and Partial Node. 
+
+Full Node –  It maintains a full copy of all the transactions. It has the capacity to validate, accept and reject the transactions.
+
+Partial Node –  It is also called a Lightweight Node because it doesn’t maintain the whole copy of the blockchain ledger. It maintains only the hash value of the transaction. The whole transaction is accessed using this hash value only. These nodes have low storage and low computational power.
+
+2. Ledger – It is a digital database of information.  Here, we have used the term ‘digital’ because the currency exchanged between different nodes is digital i.e cryptocurrency. There are three types of ledger. They are –
+      Public Ledger –  It is open and transparent to all. Anyone in the blockchain network can read or write something.
+Distributed Ledger –  In this ledger, all nodes have a local copy of the database. Here, a group of nodes collectively execute the job i.e verify transactions, add blocks in the blockchain.
+Decentralized Ledger –  In this ledger, no one node or group of nodes has a central control. Every node participates in the execution of the job.
+
+Wallet –It is a digital wallet that allows user to store their cryptocurrency. Every node in the blockchain network has a Wallet. Privacy of a wallet in a blockchain network is maintained using public and private key pairs. In a wallet, there is no need for currency conversion as the currency in the wallet is universally acceptable. Cryptocurrency wallets are mainly of two types –
+
+Hot Wallet – These wallets are used for online day-to-day transactions connected to the internet. Hackers can attack this wallet as it is connected to the internet. Hot wallets are further classified into two types –a. Online/ Web wallets – These wallets run on the cloud platform. Examples – MyEther Wallet, MetaMask Wallet.b. Software wallets –It consists of desktop wallets and mobile wallets. Desktop wallets can be downloaded on a desktop and the user has full control of the wallet. An example of a desktop wallet is Electrum. c. Mobile wallets – They are designed to operate on smartphone devices. Example – mycelium.
+
+Cold Wallet –  These wallets are not connected to the internet. It is very safe and hackers cannot attack it. These wallets are purchased by the user. Example – Paper wallet, hardware wallet.  a. Paper wallet –  They are offline wallets in which a piece of paper is used that contains the crypto address. The private key is printed in QR code format. QR code is scanned for cryptocurrency transactions. b. Hardware wallet –  It is a physical electronic device that uses a random number generator that is associated with the wallet.
+
+The focus of wallets is on these three things –
+
+
+Privacy
+Transactions should be secure
+Easy to use
+
+Privacy of a wallet is maintained using public and private key pairs. Transactions are made secure as a private key is used both to send fund and to open the encrypted message.
+
+5. Hash – The data is mapped to a fixed size using hashing. It plays a very important role in cryptography. In a blockchain network hash value of one transaction is the input of another transaction. Properties of the hash function are as follows –
+
+Collision resistant.
+Hiding.
+Puzzle friendliness.
+
+*...Thank you all...*
